@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # 🌐 **DataFlex.dev**  
-### *Your Open-Source Hub for the DataFlex Community*
-
 <p align="center">
   <img src="https://img.shields.io/badge/DataFlex-Community-0A84FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-34D058?style=for-the-badge" />
@@ -41,18 +39,16 @@ We exist to bring developers together through collaboration, shared knowledge, a
 
 ---
 
-## 🤝 **Why We Contribute (and Why You Should Too)**
+## 🤝 **Why Contribute?**
 
-The DataFlex ecosystem grows when we grow it together.
+We’re stronger together.
+By contributing to our open-source libraries, you help:
+- 🛠️ Improve tools the entire community relies on
+- 📚 Share your expertise (and learn from others!)
+- 🧪 Shape the future of DataFlex development
+- 💬 Keep open-source alive and active in the DataFlex world
 
-Contributing helps:
-
-- 🚀 Strengthen and modernize DataFlex development  
-- 🧠 Share expertise (and learn new tricks!)  
-- 🛠️ Improve libraries we all rely on  
-- 🌍 Build a sustainable open-source community  
-
-No contribution is too small — everything matters.
+Whether you fix a typo, add a feature, or build a whole new library, your contribution matters
 
 <p align="center">
   <img width="550" src="https://dummyimage.com/1000x350/161b22/ffffff&text=Let%E2%80%99s+Build+Open+Source+Together!" />
@@ -68,7 +64,7 @@ Start here:
 
 👉 **https://github.com/firstcontributions/first-contributions**
 
-A simple walkthrough — in many languages — helping you make your very first pull request.
+A simple walkthrough, in many languages, helping you make your very first pull request.
 
 ---
 
@@ -108,17 +104,6 @@ Got something cool?
 We’d love to feature it on DataFlex.dev.
 
 ---
-
-## 🔥 **Our Mission**
-
-> **To grow and modernize the DataFlex ecosystem through open-source collaboration and shared community knowledge.**
-
-We stand for:
-
-- Community over competition  
-- Practical tools for real development  
-- Sharing knowledge freely  
-- Building together  
 
 <p align="center">
   <img width="650" src="https://dummyimage.com/1200x300/0d1117/ffffff&text=Join+The+DataFlex+Open+Source+Movement" />
