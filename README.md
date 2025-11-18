@@ -49,12 +49,20 @@ Not sure how?
 
 ---
 
-## 🚀 Join Us
+### 🧩 **How You Can Get Involved**
 
-Use libraries.  
-Report issues.  
-Improve docs.  
-Share your code.  
-Help grow the DataFlex open-source ecosystem.
+#### ⭐ Explore libraries  
+Use them, test them, and help improve them.
 
-**Happy coding!**
+#### 🐛 Report issues  
+Found a bug? Share it — it helps everyone.
+
+#### 🛠️ Contribute code  
+Small fixes or big features, all welcome.
+
+#### 📘 Improve documentation  
+Clear docs make libraries ten times better.
+
+#### 📣 Share your library  
+Got something cool?  
+We’d love to feature it on DataFlex.dev.
