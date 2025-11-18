@@ -68,23 +68,6 @@ A simple walkthrough, in many languages, helping you make your very first pull r
 
 ---
 
-## 📚 **Our Library Collection**
-
-Inside DataFlex.dev, you’ll find community-created libraries for:
-
-- UI components  
-- API & HTTP helpers  
-- Developer tooling  
-- Integrations  
-- Utility functions  
-- Productivity packages  
-
-And we’re adding more all the time.
-
-If something is missing — maybe it’s your next contribution. 😉
-
----
-
 ## 🧩 **How You Can Get Involved**
 
 ### ⭐ Explore libraries  
@@ -100,7 +83,7 @@ Small fixes or big features, all welcome.
 Clear docs make libraries ten times better.
 
 ### 📣 Share your library  
-Got something cool?  
+Got something cool? 
 We’d love to feature it on DataFlex.dev.
 
 ---
@@ -108,14 +91,4 @@ We’d love to feature it on DataFlex.dev.
 <p align="center">
   <img width="650" src="https://dummyimage.com/1200x300/0d1117/ffffff&text=Join+The+DataFlex+Open+Source+Movement" />
 </p>
-
----
-
-## 📬 **Stay Connected**
-
-Have an idea? Want to contribute?  
-Let's collaborate and build the future of open-source DataFlex.
-
-**Pull requests, issues, and discussions are always welcome.**
-
 
