@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🌐 DataFlex.dev  
-### Your Open-Source Hub for DataFlex Libraries
+<p align="center">
+  <img width="700" src="https://dummyimage.com/1400x260/0d1117/ffffff&text=DataFlex.dev+Open+Source+Community" alt="Banner"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DataFlex-Community-0A84FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-34D058?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-FAB005?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img width="700" src="https://dummyimage.com/1400x260/0d1117/ffffff&text=DataFlex.dev+Open+Source+Community" alt="Banner"/>
 </p>
 
 ---
