@@ -36,13 +36,13 @@ We believe in:
 - Sharing knowledge  
 - Leveling up the DataFlex ecosystem  
 
-Whether you're improving an existing library or publishing your own — you’re part of this movement.
+Whether you're improving an existing library or publishing your own, you’re part of this movement.
 
 ---
 
 ## 🤝 Want to Contribute?
 
-New or experienced — everyone can contribute.
+New or experienced, everyone can contribute.
 
 Not sure how?  
 👉 **https://github.com/firstcontributions/first-contributions**
@@ -55,7 +55,7 @@ Not sure how?
 Use them, test them, and help improve them.
 
 #### 🐛 Report issues  
-Found a bug? Share it — it helps everyone.
+Found a bug? Share it, it helps everyone.
 
 #### 🛠️ Contribute code  
 Small fixes or big features, all welcome.
